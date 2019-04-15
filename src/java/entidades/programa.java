@@ -18,6 +18,6 @@ public class programa {
         System.out.println("Objeto luego del pedido al proveedor; ");
         System.out.println(articulo1);
         articulo1.consultarElPedido();
-        System.out.println("[OK]");
+        System.out.println("[[OK]]");
     }
 }
